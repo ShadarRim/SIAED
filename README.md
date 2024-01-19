@@ -7,7 +7,7 @@
 
 В этих материала рассматриваются элементы практических и теоретических основ работы рекуррентных нейронных сетей. 
 
-[0] [Классическая нейронная сеть на PyTorch]https://github.com/ShadarRim/SIAED/blob/main/00_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C.ipynb \
+[0] [Классическая нейронная сеть на PyTorch] (https://github.com/ShadarRim/SIAED/blob/main/00_%D0%9A%D0%BB%D0%B0%D1%81%D1%81%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BD%D0%B5%D0%B9%D1%80%D0%BE%D0%BD%D0%BD%D0%B0%D1%8F_%D1%81%D0%B5%D1%82%D1%8C.ipynb) \
 [1] [Рекуррентная нейронная сеть и MNIST](https://github.com/ShadarRim/SIAED/blob/main/01_RNN_Classif.ipynb) \
 [2] [Задача машинного перевода. LSTM и GRU](https://github.com/ShadarRim/SIAED/blob/main/02_RNN_Translate_Seq_to_Seq.ipynb)
 
