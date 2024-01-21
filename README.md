@@ -15,9 +15,9 @@
 
 Материалы подготовлены в лаборатории "Хемоинформатика и молекулярное моделирование" НИЯУ МИФИ.
 
-[3] [Описание химических соединений](https://github.com/ShadarRim/SIAED/blob/main/04_Cehm_Descr.ipynb)
-[4] [Классические методы машинного обучения для химических данных](https://github.com/ShadarRim/SIAED/blob/main/03_Chem_Catboost.ipynb)
-[5] [Рекуррентная нейронная сеть для работы с химическими данными](https://github.com/ShadarRim/SIAED/blob/main/05_Chem%2BMolVec%2BLSTM.ipynb)
+[3] [Описание химических соединений](https://github.com/ShadarRim/SIAED/blob/main/04_Cehm_Descr.ipynb) \
+[4] [Классические методы машинного обучения для химических данных](https://github.com/ShadarRim/SIAED/blob/main/03_Chem_Catboost.ipynb) \
+[5] [Рекуррентная нейронная сеть для работы с химическими данными](https://github.com/ShadarRim/SIAED/blob/main/05_Chem%2BMolVec%2BLSTM.ipynb) \
 [6] [Набор данных](https://github.com/ShadarRim/SIAED/blob/main/35000.xlsx)
 
 ## Дополнительные материалы
